@@ -1,4 +1,5 @@
 fastapi
+<<<<<<< HEAD
 uvicorn
 sqlalchemy
 psycopg2-binary
@@ -7,3 +8,11 @@ redis
 requests
 tenacity
 pydantic
+=======
+uvicorn[standard]
+celery
+redis
+sqlalchemy
+psycopg2-binary
+python-dotenv
+>>>>>>> a69616f68d49075bfa97776102118144f8b80e18
